@@ -17,5 +17,6 @@ Machine learning for medical imaging diagnosis offers significant promise to imp
 `local_counterfactuals.ipynb` can be executed locally on a machine without a GPU. All files are includes in this repository.
 
 The notebooks in `notebooks` are meant to be executed on Google Colab. For that you will need to download the CheXpert data set and upload it to your Google Drive. Then you can mount your Google Drive in the notebook and run the code.
+- [![Open NIH_Bounding_Boxes_IoU In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/florianjuengermann/local-counterfactuals/blob/main/notebooks/NIH_Bounding_Boxes_IoU.ipynb]
 
 
