@@ -1,5 +1,6 @@
 # Local Counterfactuals for Chest X-Ray Images using Saliency Map Guidance
 
+![Counterfactual Architecture](local_counterfactuals.png)
 ![Counterfactual Image Example](output/cf_64624.png)
 
 ### Abstract
